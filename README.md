@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Syntax highlighting
+
+<p align="center"><img src="screenshots/01-editor.jpg" alt="Syntax highlighting" width="850"></p>
+
+### 2️⃣ Search and replace
+
+<p align="center"><img src="screenshots/02-replace.jpg" alt="Search and replace" width="850"></p>
+
+### 3️⃣ Language selection
+
+<p align="center"><img src="screenshots/03-languages.jpg" alt="Language selection" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Syntax highlighting:** Colors for more than 80 languages.

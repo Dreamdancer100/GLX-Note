@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Syntax-Farben
+
+<p align="center"><img src="screenshots/01-editor.jpg" alt="Syntax-Farben" width="850"></p>
+
+### 2️⃣ Suchen und Ersetzen
+
+<p align="center"><img src="screenshots/02-replace.jpg" alt="Suchen und Ersetzen" width="850"></p>
+
+### 3️⃣ Sprachauswahl
+
+<p align="center"><img src="screenshots/03-languages.jpg" alt="Sprachauswahl" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Syntax-Farben:** Farben für über 80 Sprachen.
